@@ -1,0 +1,76 @@
+/*
+
+<<2D 애니메이션의 역사>>
+
+#Animation?
+Anima [라틴어원: 생명, 영혼, 정신] + tion
+생명력이 없는 형태의 그림이나 물체를 조금씩 옮겨가며 특수 스톱 프레임(Stop Frame: 멈춰있는 프레임을 찍는 것) 
+카메라를 이용해 촬영을 해서 동작이 마치 생명이 불어져 있는 것 같이 만드는 특수기법.
+
+#FPS(frame per second)
+1초에 들어가는 그림 프레임 수, 수치가 높아질수록 정교한 그림이 된다.
+무성영화 시대 – 16 fps
+유성영화 시대, 일반 애니메이션 – 24 fps
+마그네틱 비디오테잎, 디즈니 애니메이션 – 30 fps
+
+#최초의 애니메이션
+↓뤼미에르 형제의 시네마토그래프
+↓최초의 애니메이션
+<유쾌한 얼굴(Humorous Phase on Funny Faces)> 스튜어트 블랙톤(Stuart Blackton, 1906)
+ ↓최초의 풀 애니메이션 영화
+<판토슈(Fantoches)> 에밀 콜(Emile Cohl, 1908)
+
+# 미국애니메이션의 아버지 윈저 맥케이
+<리틀 리모(Little Nemo)>(1911) 로 애니메이션 장르를 널리 알림.
+그 외에도 <모기의 이야기(How a Mosquito Operates)> <공룡 거티(Gertie, the Dinosaur)>, <루시타니아호의 침몰(The Sinking of Lusitania)>를 제작.
+<공룡 거티(Gertie, the Dinosaur)>(1914)는 세상에 존재하지 않는 공룡을 캐릭터화를 하고, 원근법 등을 잘 표현한 바 있음.
+
+#초기 월트 디즈니의 계보 
+ 1923 앨리스 코미디(Alice's Wonderland ): 월트디즈니의 초기 회사 Laugh-O-Gram Films 작품
+ 1927 오스왈드 래빗(Oswald The Lucky Rabbit): 최초의 토키(Talkie)애니메이션, 디즈니 애니메이션 부흥의 시작
+ 1928 증기선의 윌리(Steamboat Willie):
+ 1929 실리 심포니(Silly Symphony series):
+ 1937 백설공주와 일곱 난쟁이(Snow White & the Seven Dwarfs): 최초 애니메이션 장편이자 테크니컬러 작품
+    ：멀티플랜 테크니컬러(Multiplan Technicolor) 
+     (한장의 이미지에도 공간감을 많이 느껴지도록 하는 멀티플랜 카메라와 아름답고 풍부한 컬러영화의 총 천연색 테크니컬러 색채영화)
+ 1940 피노키오(Pinocchio):
+ 1940 판타지아(Fantasia):
+ 1941 덤보(Dumbo):
+ 1942 밤비(Bambi):
+ 
+ 
+ #타 애니메이션 회사의 계보 
+ 
+ <Fleischer Studio>
+ 1931 베티 붑(Betty Boop): 모델은 헬렌 케인
+ 1939 걸리버 여행기(Gullivers Travels): 
+ 1956 뽀빠이 (Popeye): 1929년부터 신문연재만화로 인기를 끌었다. 
+ 
+ 
+ <Warner Brothers (워너브라더스)>
+ 1935 난 모자가 없어(I haven’t got a hat): 최초의 히트 캐릭터, 꼬마돼지 포키(Porky Pig)의 등장
+ 1937 포키의 오리사냥(Porky’s Duck Hunt): 더피 덕(Daffy Duck)의 등장
+ 1940 야생토끼(A Wild Hare): 벅스 버니(Bugs Bunny)의 등장
+ 1941 너에게 주는 노트(Notes to you): 실배스터(Sylvester the cat)의 등장
+ 1942 두 고양이의 이야기(a Tale of Two Kittes): 트위티(Tweety)의 등장
+ 1944 스테이지 도어 카툰(Stage Door Cartoon): 요세미티 샘(Yosemite Sam)의 등장
+  ~50년까지 지속적인 캐릭터 등장으로 루니툰(Loonie Toones) 대가족의 형성
+ 1992~ 배트맨(Batman Series)
+ 1996 스패이스 잼(Space Jam): 실제 인물 마이클 조단과 루니툰 애니메이트 캐릭터가 합성된 합작 애니메이션
+ 
+ <MGM>
+ 1938 톰과 제리(Tom and Jerry)
+ 1941 검은 고양이(The Alley Cat)
+ 1943 덤 하운디드(Dumb Hounded): 드루피(Droopy)의 등장
+ 1949 배드럭 블래키(Bad luck Blakie): 스파이크(Spike)의 등장, 
+      솔로 시리즈 뿐만아니라 드루피 시리즈에 간간히 나오기도 했으나, 
+      톰과제리 시리즈에 나오는 스파이크와 구분하기 위해 후에 부치(Butch)라고 이름이 바뀌었다.
+ 
+<Hanna Barbera Productions>
+1957 허클베리 파운드쇼(The Huckleberry Hound Show)
+1958 요기 베어(Yogi Bear’s Big Break)
+1960 프린스톤 가족 (The Flintstones)
+1969 스쿠비 두, 어디있니!(Scooby Doo, Where are you!)
+1981 개구쟁이 스머프(The Smerfs)
+ 
+*/
